@@ -1,0 +1,7 @@
+[
+    {"id":"prod001", "productName":"Hamam soap", "price":"15.00", "category":"soap"},
+    {"id":"prod002", "productName":"Cinthol soap", "price":"44.00", "category":"soap"},
+    {"id":"prod003", "productName":"Dove", "price":"85.00", "category":"soap"},
+    {"id":"prod004", "productName":"Colgate", "price":"30.00", "category":"Paste"},
+    {"id":"prod005", "productName":"Closeup", "price":"55.00", "category":"Paste"}
+]
